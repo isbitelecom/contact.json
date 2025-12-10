@@ -1,14 +1,4 @@
 [
-  {
-    "id": 1,
-    "name": "Client Test 1",
-    "uri": "tel:0123456789",
-    "status": ""
-  },
-  {
-    "id": 2,
-    "name": "Client Test 2",
-    "uri": "tel:0987654321"
-  }
+  {"id":"1","name":"GSM","number":"+33777777777","status":""},
+  {"id":"2","name":"test","number":"+33444444444","status":""}
 ]
-
